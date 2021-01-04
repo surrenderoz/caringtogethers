@@ -1,6 +1,6 @@
 <template>
   <!-- wpo-mission-area start -->
-  <div class="wpo-mission-area section-padding">
+  <div id="Aboutus" class="wpo-mission-area section-padding">
     <div class="container">
       <div class="row">
         <div class="col-12">
@@ -250,7 +250,7 @@
         <div class="col-12">
           <div class="wpo-world-section">
             <h2>Lets Chenge The World With Humanity</h2>
-            <a href="volunteer.html"
+            <a href="/volunteer"
               ><img src="assets/images/team/1.png" alt="" />Become A
               Volunteer</a
             >
@@ -261,107 +261,4 @@
   </div>
   <!-- world area end -->
   <!-- wpo-event-area start -->
-  <div class="wpo-event-area section-padding">
-    <div class="container">
-      <div class="row">
-        <div class="col-12">
-          <div class="wpo-section-title">
-            <span>Our Events</span>
-            <h2>Upcoming Events</h2>
-          </div>
-        </div>
-      </div>
-      <div class="row">
-        <div class="col-md-4 col-sm-6 col-12 custom-grid">
-          <div class="wpo-event-item">
-            <div class="wpo-event-img">
-              <img src="assets/images/event/img-1.jpg" alt="" />
-              <div class="thumb-text">
-                <span>25</span>
-                <span>NOV</span>
-              </div>
-            </div>
-            <div class="wpo-event-text">
-              <h2>Education for All Children</h2>
-              <ul>
-                <li>
-                  <i class="fa fa-clock-o" aria-hidden="true"></i>8.00 - 5.00
-                </li>
-                <li><i class="fi flaticon-pin"></i>Newyork City</li>
-              </ul>
-              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit</p>
-              <a href="event-single.html">Learn More...</a>
-            </div>
-          </div>
-        </div>
-        <div class="col-md-4 col-sm-6 col-12 custom-grid">
-          <div class="wpo-event-item">
-            <div class="wpo-event-img">
-              <img src="assets/images/event/img-2.jpg" alt="" />
-              <div class="thumb-text-2">
-                <span>25</span>
-                <span>NOV</span>
-              </div>
-            </div>
-            <div class="wpo-event-text">
-              <h2>Food for All Everyone</h2>
-              <ul>
-                <li>
-                  <i class="fa fa-clock-o" aria-hidden="true"></i>8.00 - 5.00
-                </li>
-                <li><i class="fi flaticon-pin"></i>Newyork City</li>
-              </ul>
-              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit</p>
-              <a href="event-single.html">Learn More...</a>
-            </div>
-          </div>
-        </div>
-        <div class="col-md-4 col-sm-6 col-12 custom-grid">
-          <div class="wpo-event-item">
-            <div class="wpo-event-img">
-              <img src="assets/images/event/img-3.jpg" alt="" />
-              <div class="thumb-text-3">
-                <span>25</span>
-                <span>NOV</span>
-              </div>
-            </div>
-            <div class="wpo-event-text">
-              <h2>Free Treatment</h2>
-              <ul>
-                <li>
-                  <i class="fa fa-clock-o" aria-hidden="true"></i>8.00 - 5.00
-                </li>
-                <li><i class="fi flaticon-pin"></i>Newyork City</li>
-              </ul>
-              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit</p>
-              <a href="event-single.html">Learn More...</a>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-  <!-- wpo-event-area end -->
-  <!-- wpo-cta-area start -->
-  <div class="wpo-cta-area">
-    <div class="container">
-      <div class="row">
-        <div class="col-lg-12">
-          <div class="wpo-cta-text">
-            <h2>You Can Help The Poor With Us</h2>
-            <p>
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-              eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis
-              ipsum suspendisse
-            </p>
-            <div class="btns">
-              <a href="causes-single.html" class="theme-btn">Donate Now</a>
-              <a href="volunteer.html" class="theme-btn-s2">Join Us Now</a>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-  <!-- wpo-cta-area end -->
 </template>

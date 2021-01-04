@@ -42,10 +42,10 @@
             <li class="menu-item-has-children">
               <router-link to="/">Home</router-link>
             </li>
-            <li><router-link to="/about">About</router-link></li>
+            <li><a href="/#Aboutus">About</a></li>
             <li><router-link to="/contact">Contact</router-link></li>
             <li><router-link to="/volunteer">Volunteer</router-link></li>
-            <li><a class="theme-btn" href="http://localhost:8080/#causes">Donate Now</a></li>
+            <li><a class="theme-btn" href="/#causes">Donate Now</a></li>
           </ul>
         </div>
         <!-- end of nav-collapse -->
