@@ -25,8 +25,8 @@
             <footer class="wpo-site-footer">
                 <div class="wpo-upper-footer">
                     <div class="container">
-                        <div class="row">
-                            <div class="col col-lg-4 col-md-4 col-sm-6">
+                        <div class="row m-50">
+                            <div class="col col-lg-5 col-md-5 col-sm-6" >
                                 <div class="widget about-widget">
                                     <div class="logo widget-title">
                                         <img src="../assets/img/logo-2.png" alt="blog">
@@ -40,44 +40,19 @@
                                     </ul>
                                 </div>
                             </div>
-                            <!-- <div class="col col-lg-3 col-md-3 col-sm-6">
-                                <div class="widget link-widget resource-widget">
-                                    <div class="widget-title">
-                                        <h3>Top News</h3>
-                                    </div>
-                                    <div class="news-wrap">
-                                        <div class="news-img">
-                                            <img src="assets/images/footer/img-1.jpg" alt="">
-                                        </div>
-                                        <div class="news-text">
-                                            <h3>Education for all poor children</h3>
-                                            <span>12 Nov, 2020</span>
-                                        </div>
-                                    </div>
-                                    <div class="news-wrap">
-                                        <div class="news-img">
-                                            <img src="assets/images/footer/img-2.jpg" alt="">
-                                        </div>
-                                        <div class="news-text">
-                                            <h3>Education for all poor children</h3>
-                                            <span>12 Nov, 2020</span>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div> -->
                             <div class="col col-lg-4 col-md-4 col-sm-6">
                                 <div class="widget link-widget">
                                     <div class="widget-title">
                                         <h3>Useful Links</h3>
                                     </div>
                                     <ul>
-                                        <li><router-link to="/about">About Caring Together</router-link></li>
+                                        <li><router-link to="/#AboutUs">About Caring Together</router-link></li>
                                         <li><router-link to="/contact">Contact Us</router-link></li>
                                         <li><router-link to="/volunteer">Become Volunteer</router-link></li>
                                     </ul>
                                 </div>
                             </div>
-                            <div class="col col-lg-4  col-md-4 col-sm-6">
+                            <div class="col col-lg-3  col-md-3 col-sm-6" >
                                 <div class="widget market-widget wpo-service-link-widget">
                                     <div class="widget-title">
                                         <h3>Contact Us</h3>

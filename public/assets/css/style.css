@@ -4221,10 +4221,8 @@ hero-style3
 }
 
 .wpo-team-content {
-    position: absolute;
+    position: relative;
     right: 0px;
-    bottom: -45px;
-    width: 80%;
     text-align: center;
     padding: 30px;
     overflow: hidden;

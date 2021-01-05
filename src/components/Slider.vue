@@ -15,7 +15,7 @@
                                     <p>You Can Satisfied Yourself By Helping.</p>
                                 </div>
                                 <div class="btns">
-                                    <a href="#" class="theme-btn">Donate Now</a>
+                                    <a href="/#causes" class="theme-btn">Donate Now</a>
                                 </div>
                             </div>
                         </div>

@@ -96,13 +96,13 @@
               as necessary,
             </p>
             <div class="btns">
-              <a href="about.html" class="theme-btn">Know More</a>
+              <a href="/#AboutUs" class="theme-btn">Know More</a>
             </div>
           </div>
         </div>
         <div class="col-lg-6 col-md-6 colsm-12">
           <div class="wpo-about-img">
-            <img src="assets/images/about.png" alt="" />
+            <img src="../assets/mission.jpg" alt="" />
           </div>
         </div>
       </div>
